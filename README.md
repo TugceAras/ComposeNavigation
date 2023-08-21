@@ -1,4 +1,4 @@
-# Jetpack Compose Navigation
+# Jetpack Compose Navigation ⚡
 - This repository is about how to navigate in Jetpack Compose.
 
 </br>
